@@ -1777,7 +1777,7 @@ Type:
 (blackjackenv) C:\Users\Goran\blackjack_project\game\blackjack>cd templates\blackjack
 (blackjackenv) C:\Users\Goran\blackjack_project\game\blackjack\templates\blackjack>notepad index.html
 ```
-To button at line 13 add the attribute hidden="hidden" and it should look like this:
+To the Submit button at line 13 add the attribute hidden="hidden" and it should look like this:
 ```html
 <button type="submit" id="update_button" hidden="hidden">Submit</button>
 ```
