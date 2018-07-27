@@ -122,7 +122,7 @@ Output should be like following:
 23/07/2018  12:32    <DIR>          .
 23/07/2018  12:32    <DIR>          ..
 23/07/2018  12:32    <DIR>          game
-23/07/2018  12:32               551    manage.py
+23/07/2018  12:32               551 manage.py
 ```
 #### 4. Create django app with name blackjack
 Now let's create django app with command **startapp**:
@@ -139,7 +139,7 @@ You should see the blackjack folder in the output:
 23/07/2018  13:03    <DIR>          ..
 23/07/2018  13:03    <DIR>          blackjack
 23/07/2018  13:03    <DIR>          game
-23/07/2018  12:32               551    manage.py
+23/07/2018  12:32               551 manage.py
 ```
 We will now put the app in the **game\settings .py**.
 Type **cd game**:
@@ -229,7 +229,7 @@ And you should have output like this:
 23/07/2018  13:03    <DIR>          blackjack
 23/07/2018  14:05           131,072 db.sqlite3
 23/07/2018  13:03    <DIR>          game
-23/07/2018  12:32                  551 manage.py
+23/07/2018  12:32               551 manage.py
 23/07/2018  14:35    <DIR>          templates
 ```
 Let's now enter the templates folder to create blank html files with command **cd. > filename**:
