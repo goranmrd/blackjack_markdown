@@ -1113,7 +1113,7 @@ And place this code inside it:
             </div>
         </div>
     </div>
-    <form action='update_game/' method="POST">
+    <form action='{% url 'blackjack:update_game' %}' method="POST">
         {% csrf_token %}
         {{ form.as_p }}
         <!-- This button will be hidden later when we hide the form-->
