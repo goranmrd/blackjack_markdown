@@ -1227,7 +1227,7 @@ Lines 3 to 10 is small JavaScript code to add the bootstraps 'form-control' clas
 
 Save the file Ctrl + S and go to terminal to open the login .html. Type:
 ```
-(blackjackenv) C:\Users\Goran\blackjack_project\game\blackjack\templates\blackjack>notepad signup.html
+(blackjackenv) C:\Users\Goran\blackjack_project\game\blackjack\templates\blackjack>notepad login.html
 ```
 Now fill it with code:
 ```html
